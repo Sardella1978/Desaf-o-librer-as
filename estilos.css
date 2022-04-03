@@ -1,0 +1,17 @@
+div, form {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+form {
+    padding: 2em;
+}
+
+.color-formulario {
+    background-color: whitesmoke;
+}
+
+h1, h2 {
+    font-size: xx-large;
+}
